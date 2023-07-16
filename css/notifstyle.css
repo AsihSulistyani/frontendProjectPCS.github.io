@@ -1,0 +1,455 @@
+/* Notification Css */
+.your-submission-is-container {
+    top: 22px;
+    left: 0;
+    width: 305px;
+    height: 69px;
+  }
+  .b,
+  .overtime,
+  .your-submission-is-container {
+    position: absolute;
+    display: inline-block;
+  }
+  .overtime {
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-base);
+    font-family: var(--font-baloo-2);
+    width: 134px;
+    height: 11px;
+  }
+  .b {
+    top: 3px;
+    left: 279px;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray);
+    text-align: right;
+    width: 75px;
+    height: 19px;
+  }
+  .your-submission-is-being-revie-parent {
+    position: absolute;
+    top: 0;
+    left: 51px;
+    width: 354px;
+    height: 91px;
+  }
+  .icon,
+  .icon1 {
+    position: absolute;
+    object-fit: cover;
+  }
+  .icon {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    width: 42.9px;
+    height: 42px;
+  }
+  .icon1 {
+    top: 35px;
+    left: 36px;
+    width: 15px;
+    height: 14.08px;
+  }
+  .oreview,
+  .parent {
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 51px;
+    height: 49.08px;
+  }
+  .oreview {
+    top: 780px;
+    left: 16px;
+    width: 405px;
+    height: 91px;
+  }
+  .your-submission-has-been-rejec-parent {
+    position: absolute;
+    top: 0;
+    left: 52px;
+    width: 354px;
+    height: 91px;
+  }
+  .icon2,
+  .icon3 {
+    position: absolute;
+    object-fit: cover;
+  }
+  .icon2 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    width: 42px;
+    height: 41.56px;
+  }
+  .icon3 {
+    top: 35px;
+    left: 30px;
+    width: 15px;
+    height: 14.38px;
+  }
+  .group,
+  .oreject {
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 45px;
+    height: 49.38px;
+  }
+  .oreject {
+    top: 698px;
+    left: 16px;
+    width: 406px;
+    height: 91px;
+  }
+  .your-submission-has-container1 {
+    position: absolute;
+    top: 22px;
+    left: 0;
+    display: inline-block;
+    width: 305px;
+    height: 42px;
+  }
+  .your-submission-has-been-appro-parent {
+    position: absolute;
+    top: 0;
+    left: 52px;
+    width: 354px;
+    height: 64px;
+  }
+  .icon4,
+  .icon5 {
+    position: absolute;
+    object-fit: cover;
+  }
+  .icon4 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    width: 42.84px;
+    height: 41.78px;
+  }
+  .icon5 {
+    top: 32.64px;
+    left: 31.79px;
+    width: 15.21px;
+    height: 14.36px;
+  }
+  .container,
+  .oapprove {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    width: 47px;
+    height: 47px;
+  }
+  .oapprove {
+    top: 618px;
+    left: 16px;
+    width: 406px;
+    height: 64px;
+  }
+  .icon6,
+  .icon7 {
+    position: absolute;
+    object-fit: cover;
+  }
+  .icon6 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    width: 42px;
+    height: 41.55px;
+  }
+  .icon7 {
+    top: 32px;
+    left: 34px;
+    width: 15px;
+    height: 14.38px;
+  }
+  .group-div,
+  .sprocess {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    width: 49px;
+    height: 46.38px;
+  }
+  .sprocess {
+    top: 544px;
+    left: 16px;
+    width: 406px;
+    height: 91px;
+  }
+  .icon8,
+  .icon9 {
+    position: absolute;
+    object-fit: cover;
+  }
+  .icon8 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    width: 42.89px;
+    height: 42px;
+  }
+  .icon9 {
+    top: 35px;
+    left: 35px;
+    width: 15px;
+    height: 14.38px;
+  }
+  .icon10,
+  .sreject,
+  .sreject1 {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    width: 50px;
+    height: 49.38px;
+  }
+  .icon10,
+  .sreject {
+    top: 466px;
+    left: 16px;
+    width: 405px;
+    height: 91px;
+  }
+  .icon10 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    width: 42px;
+    height: 42px;
+    object-fit: cover;
+  }
+  .parent1 {
+    top: 3px;
+    left: 0;
+    width: 49px;
+    height: 46.38px;
+  }
+  .b5,
+  .parent1,
+  .sapprove {
+    position: absolute;
+  }
+  .b5 {
+    top: 3px;
+    left: 286px;
+    font-size: var(--font-size-xs);
+    display: inline-block;
+    color: var(--color-gray);
+    text-align: right;
+    width: 68px;
+    height: 19px;
+  }
+  .sapprove {
+    top: 389px;
+    left: 16px;
+    width: 406px;
+    height: 64px;
+  }
+  .b6,
+  .reimbursement,
+  .your-submission-will-container {
+    position: absolute;
+    top: 0;
+    left: 51px;
+    display: inline-block;
+    width: 134px;
+    height: 11px;
+  }
+  .b6,
+  .your-submission-will-container {
+    top: 19px;
+    left: 0;
+    width: 305px;
+    height: 41px;
+  }
+  .b6 {
+    top: 0;
+    left: 283px;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray);
+    text-align: right;
+    width: 71px;
+    height: 19px;
+  }
+  .your-submission-will-be-proces-parent {
+    position: absolute;
+    top: 3px;
+    left: 51px;
+    width: 354px;
+    height: 60px;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-bai-jamjuree);
+  }
+  .icon13 {
+    position: absolute;
+    top: 32px;
+    left: 32px;
+    border-radius: var(--br-xl);
+    width: 15px;
+    height: 14.08px;
+    object-fit: cover;
+  }
+  .parent2,
+  .rprocess {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    width: 47px;
+    height: 46.08px;
+  }
+  .rprocess {
+    top: 312px;
+    left: 16px;
+    width: 405px;
+    height: 63px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-baloo-2);
+  }
+  .yesterday,
+  .your-submission-description-container {
+    position: absolute;
+    top: 22px;
+    left: 0;
+    display: inline-block;
+    width: 305px;
+    height: 41px;
+  }
+  .yesterday {
+    top: 3px;
+    left: 283px;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray);
+    text-align: right;
+    width: 71px;
+    height: 19px;
+  }
+  .icon14,
+  .icon15,
+  .your-submission-description-parent {
+    position: absolute;
+    top: 0;
+    left: 51px;
+    width: 354px;
+    height: 63px;
+  }
+  .icon14,
+  .icon15 {
+    left: 0;
+    border-radius: var(--br-8xs);
+    width: 42px;
+    height: 41.12px;
+    object-fit: cover;
+  }
+  .icon15 {
+    top: 33px;
+    left: 33px;
+    border-radius: var(--br-xl);
+    width: 15px;
+    height: 14.08px;
+  }
+  .parent3 {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    width: 48px;
+    height: 47.08px;
+  }
+  .rreject {
+    top: 235px;
+    left: 16px;
+    width: 405px;
+    height: 63px;
+  }
+  .icon17,
+  .rreject,
+  .today {
+    position: absolute;
+  }
+  .today {
+    top: 3px;
+    left: 305px;
+    font-size: var(--font-size-xs);
+    display: inline-block;
+    color: var(--color-gray);
+    text-align: right;
+    width: 49px;
+    height: 19px;
+  }
+  .icon17 {
+    top: 32px;
+    left: 32px;
+    border-radius: var(--br-xl);
+    width: 15px;
+    height: 14.38px;
+    object-fit: cover;
+  }
+  .parent4,
+  .rpaid {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    width: 47px;
+    height: 46.38px;
+  }
+  .rpaid {
+    top: 128px;
+    left: 16px;
+    width: 406px;
+    height: 91px;
+  }
+  .title-header-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 430px;
+    height: 116px;
+  }
+  .notification1,
+  .title-header-item {
+    position: absolute;
+    top: 84.64px;
+    left: 25px;
+    width: 20px;
+    height: 14.73px;
+  }
+  .notification1 {
+    top: 74px;
+    left: 56px;
+    display: inline-block;
+    width: 147px;
+    height: 32px;
+  }
+  .title-header {
+    position: absolute;
+    top: -20px;
+    left: 0;
+    width: 430px;
+    height: 116px;
+    cursor: pointer;
+    font-size: 23px;
+    color: #f8471b;
+    font-family: var(--font-baloo-2);
+  }
+  .notification {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 932px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-bai-jamjuree);
+  }
+  
